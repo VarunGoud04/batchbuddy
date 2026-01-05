@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001140968572",
+    "project_id": "batchbuddy-db6cb",
+    "storage_bucket": "batchbuddy-db6cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001140968572:android:0a057a230ee18bba217df9",
+        "android_client_info": {
+          "package_name": "com.example.batchbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN4wuzs5OWDQGi2MLPMjCkzHLD4cdBjWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
